@@ -34,4 +34,4 @@ resource "azurerm_resource_group" "my" {
  location = var.resource_group_location
 }
 #This is first test of updating terraform file and uploading to git repos by using Push commands
-test1
+
